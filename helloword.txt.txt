@@ -1,3 +1,5 @@
 print('hello world');
 print('ok');
 print('hero');
+print('hi');
+
